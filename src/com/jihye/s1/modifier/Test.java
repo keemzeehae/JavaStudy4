@@ -1,8 +1,8 @@
 package com.jihye.s1.modifier;
 
-class Test {
+public class Test {
 
-	private int num;
+	int num;
 	
 	//생성자 
 	public Test () {
